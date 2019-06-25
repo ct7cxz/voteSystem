@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.login{
+	width:250px;
+	height:150px;
+	position: absolute;
+	margin-top: 185px;
+	margin-left:40%;
+
+}
+.font{
+	font-size: 36px;
+	font-family:cursive;
+	font-weight:bolder;
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 43.5%;
+}

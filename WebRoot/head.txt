@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div align="center">
+	<H2>网上书城</H2>
+	<table cellspacing="1" cellpadding="1" width="760" align="center" border="0">
+		<tr><a href="register.jsp">用户注册</a></tr>
+		<tr><a href="login.jsp">用户登录</a></tr>
+		<tr><a href="queryOrderForm.jsp">查看订单</a></tr>
+		<tr><a href="lookPurchase.jsp">查看购物车</a></tr>
+		<tr><a href="lookBook.jsp">浏览图书</a></tr>
+		<tr><a href="findBook.jsp">图书查询</a></tr>
+		<tr><a href="modifyRegister.jsp">修改注册信息</a></tr>
+		<tr><a href="modifyPassword.jsp">修改密码</a></tr>
+		<tr><a href="exitLogin.jsp">退出登录</a></tr>
+		<tr><a href="index.jsp">返回主页</a></tr>
+	</table>
+</div>
